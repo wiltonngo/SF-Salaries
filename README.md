@@ -1,1 +1,2 @@
 # SF-Salaries
+San Francisco Salaries Database tell us the number of people who work in San Francisco Job Titles and how much their Salary is. The company wanted to find which Job Title is earning the most and the least. Finding a Certain Position of The job title and who is associated with the person. I Will be using pandas to analyze this dataset to find certain answer that we wanted to find out.
